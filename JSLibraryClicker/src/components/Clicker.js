@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import "./Clicker.css";
-import { randomWord } from "./Words.js";
-import grave from "./images/grave.png"
 
 //Really simple button clicker that uses React. One button adds 1 to the score and
 //the other adds 2. I originally had this doing a little more but couldn't get it to
